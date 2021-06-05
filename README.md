@@ -6,3 +6,7 @@ A challenge given to me by my computer science professor in first year. The chal
 8 Guesses: 98% Win rate
 
 10 Guesses 99-100% Win rate
+
+
+**To run:**  
+Download and unzip, then run `hangman.py` in any code or text editor
